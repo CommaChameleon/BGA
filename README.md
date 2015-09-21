@@ -5,6 +5,7 @@ Cool relevant links:
 
 BIG
 
+- https://en.wikipedia.org/wiki/Orders_of_magnitude_%28length%29 - Wikipedia's text-based orders of magnitude (length)
 - http://scaleofuniverse.com/ - Interactive scale of the universe tool
 - https://vms.bigfurs.com/ - Character size visualizer associated with BigFurs IRC
 
